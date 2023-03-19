@@ -1,4 +1,4 @@
-## Oi, eu sou o Cleyson Silva! ✌
+## Oi, eu sou o Cleyson! ✌
 
 - Graduando em Eng. da Computação. 📚
 - Estou sempre me aperfeiçoando. 🔥
