@@ -1,6 +1,6 @@
 ## Oi, eu sou o Cleyson! ✌
 
-- Graduando em Eng. da Computação. 📚
+- Graduando em Eng. de Computação. 📚
 - Estou sempre me aperfeiçoando. 🔥
 - Aficionado por tecnologia. ⚡
 
