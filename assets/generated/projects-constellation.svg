@@ -151,7 +151,7 @@
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">solucheck</text>
     <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Plataforma científica em Flask</text>
-    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">para cálculos químicos e</text>
+    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">para cálculos químicos e geração</text>
     <rect x="85.0" y="163" width="135" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
     <text x="152.5" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Frontend &amp; Mobile</text>
   </g>
