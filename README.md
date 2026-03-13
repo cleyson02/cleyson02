@@ -35,7 +35,7 @@
 
 Desenvolvedor Full-Stack & Analista de Dados com foco em eficiência operacional e escalabilidade. Experiência sólida na criação de aplicações Web/Mobile (Django, React Native) e pipelines de dados (Python, GCP, Power BI). Busco aplicar minha capacidade analítica e de desenvolvimento para otimizar processos e gerar valor através de software de alta performance.
 
-**Currently at** Pernambuco, Brazil
+**Atualmente em** Pernambuco, Brazil
 </details>
 
 <br/>

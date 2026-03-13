@@ -37,23 +37,18 @@ galaxy_arms:
     color: "axon_amber"
     items:
       - docker
-      - github-actions
       - sql
       - git
       - linux
 
 projects:
-  - repo: "cleyson02/Projeto-4"
-    arm_index: 1  # Backend & Cloud
-    description: "Plataforma em Flask para automação de cálculos químicos e relatórios técnicos."
-
   - repo: "cleyson02/C0inTec"
     arm_index: 0  # Frontend & Mobile
-    description: "Aplicativo de gestão financeira com integração de pagamentos e interfaces responsivas."
+    description: "Aplicativo de gestão financeira."
 
   - repo: "cleyson02/Sistema_mapeamento_laboratorio"
     arm_index: 1  # Backend & Cloud
-    description: "Sistema web em Django para gerenciamento institucional com arquitetura MVC."
+    description: "Sistema web em Django para gerenciamento institucional."
 
 theme:
   background: "#071124"
