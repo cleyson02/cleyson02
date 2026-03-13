@@ -29,23 +29,22 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>Saiba mais sobre mim</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Desenvolvedor Full-Stack & Analista de Dados com foco em eficiência operacional e escalabilidade. Experiência sólida na criação de aplicações Web/Mobile (Django, React Native) e pipelines de dados (Python, GCP, Power BI). Busco aplicar minha capacidade analítica e de desenvolvimento para otimizar processos e gerar valor através de software de alta performance.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Pernambuco, Brazil
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:cleysonsilva2002@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/cleyson02/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>

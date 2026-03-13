@@ -29,8 +29,8 @@ jobs:
 
       - name: Generate SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m generator.main --demo
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        run: python -m generator.main
 
       - name: Commit and push if changed
         run: |
@@ -38,6 +38,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/generated/
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update profile SVGs [skip ci]"
+            git commit -m "chore: atualiza imagens do perfil [skip ci]"
             git push
           fi
