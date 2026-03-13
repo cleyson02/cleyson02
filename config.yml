@@ -21,10 +21,7 @@ galaxy_arms:
       - react-native
       - expo
       - javascript
-      - typescript
-      - html
       - css
-      - bootstrap
 
   - name: "Backend"
     color: "dendrite_violet"
@@ -33,7 +30,6 @@ galaxy_arms:
       - django
       - flask
       - java
-      - spring-boot
       - nodejs
       - sql
 
@@ -92,4 +88,5 @@ stats:
 languages:
   exclude:
     - HTML
+    - CSS
   max_display: 6
