@@ -2,11 +2,11 @@ username: cleyson02
 
 profile:
   name: "Cleyson Silva"
-  slogan: "full-stack dev · data analyst · builder"
+  slogan: "full-stack developer · mobile specialist · builder"
   company: "Freelancer / Open Source"
   location: "Pernambuco, Brazil"
-  bio: "Desenvolvedor Full-Stack e Analista de Dados focado em sistemas escaláveis, IA aplicada e automação de dados."
-  philosophy: "Transformar dados e código em soluções que geram impacto real."
+  bio: "Desenvolvedor Full-Stack focado em eficiência operacional, sistemas escaláveis e criação de aplicações Web/Mobile de alta performance."
+  philosophy: "Transformar lógica e código em soluções que geram impacto real."
 
 social:
   email: "cleysonsilva2002@gmail.com"
@@ -20,51 +20,40 @@ galaxy_arms:
       - react
       - react-native
       - expo
+      - typescript
       - javascript
-      - css
 
-  - name: "Backend"
+  - name: "Backend & Cloud"
     color: "dendrite_violet"
     items:
       - python
       - django
       - flask
       - java
+      - spring-boot
       - nodejs
-      - sql
 
-  - name: "Data & AI"
-    color: "axon_amber"
-    items:
-      - pandas
-      - numpy
-      - scikit-learn
-      - bigquery
-      - powerbi
-      - machine-learning
-      - etl
-
-  - name: "DevOps & Infra"
+  - name: "DevOps & Tools"
     color: "axon_amber"
     items:
       - docker
-      - gcp
-      - linux
-      - ci-cd
+      - github-actions
+      - sql
       - git
+      - linux
 
 projects:
   - repo: "cleyson02/Projeto-4"
-    arm_index: 1  # Vai para o braço "Backend" (Violeta)
-    description: "Plataforma científica em Flask para cálculos químicos e relatórios técnicos."
+    arm_index: 1  # Backend & Cloud
+    description: "Plataforma em Flask para automação de cálculos químicos e relatórios técnicos."
 
-  - repo: "cleyson02/C0inTec" # Ajuste para o nome correto do repo se não for esse
-    arm_index: 0  # Vai para o braço "Frontend & Mobile" (Cyan)
-    description: "Aplicativo mobile de gestão financeira com IA e automação de transações."
+  - repo: "cleyson02/C0inTec"
+    arm_index: 0  # Frontend & Mobile
+    description: "Aplicativo de gestão financeira com integração de pagamentos e interfaces responsivas."
 
   - repo: "cleyson02/Sistema_mapeamento_laboratorio"
-    arm_index: 1  # Vai para o braço "Backend" (Violeta)
-    description: "Sistema web em Django para gerenciamento de reservas universitárias."
+    arm_index: 1  # Backend & Cloud
+    description: "Sistema web em Django para gerenciamento institucional com arquitetura MVC."
 
 theme:
   background: "#071124"
