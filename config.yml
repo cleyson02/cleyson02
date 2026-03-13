@@ -43,7 +43,6 @@ galaxy_arms:
       - pandas
       - numpy
       - scikit-learn
-      - xgboost
       - bigquery
       - powerbi
       - machine-learning
@@ -53,28 +52,23 @@ galaxy_arms:
     color: "axon_amber"
     items:
       - docker
-      - github-actions
       - gcp
       - linux
       - ci-cd
       - git
 
 projects:
-  - repo: "cleyson02/solucheck"
+  - repo: "https://github.com/cleyson02/Projeto-4"
     arm_index: 1
     description: "Plataforma científica em Flask para cálculos químicos e geração automática de relatórios técnicos."
 
-  - repo: "cleyson02/financial-ai-app"
+  - repo: "https://github.com/C0inTec"
     arm_index: 0
     description: "Aplicativo mobile de gestão financeira com IA para classificação de perfil financeiro e automação de transações."
 
-  - repo: "cleyson02/university-booking-system"
+  - repo: "https://github.com/cleyson02/Sistema_mapeamento_laboratorio"
     arm_index: 1
     description: "Sistema web em Django para gerenciamento de reservas universitárias com calendário interativo."
-
-  - repo: "cleyson02/data-analytics-dashboards"
-    arm_index: 2
-    description: "Pipelines de dados e dashboards estratégicos em Python, BigQuery e Power BI."
 
 theme:
   background: "#071124"
