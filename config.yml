@@ -54,17 +54,17 @@ galaxy_arms:
       - git
 
 projects:
-  - repo: "https://github.com/cleyson02/Projeto-4"
-    arm_index: 1
-    description: "Plataforma científica em Flask para cálculos químicos e geração automática de relatórios técnicos."
+  - repo: "cleyson02/Projeto-4"
+    arm_index: 1  # Vai para o braço "Backend" (Violeta)
+    description: "Plataforma científica em Flask para cálculos químicos e relatórios técnicos."
 
-  - repo: "https://github.com/C0inTec"
-    arm_index: 0
-    description: "Aplicativo mobile de gestão financeira com IA para classificação de perfil financeiro e automação de transações."
+  - repo: "cleyson02/C0inTec" # Ajuste para o nome correto do repo se não for esse
+    arm_index: 0  # Vai para o braço "Frontend & Mobile" (Cyan)
+    description: "Aplicativo mobile de gestão financeira com IA e automação de transações."
 
-  - repo: "https://github.com/cleyson02/Sistema_mapeamento_laboratorio"
-    arm_index: 1
-    description: "Sistema web em Django para gerenciamento de reservas universitárias com calendário interativo."
+  - repo: "cleyson02/Sistema_mapeamento_laboratorio"
+    arm_index: 1  # Vai para o braço "Backend" (Violeta)
+    description: "Sistema web em Django para gerenciamento de reservas universitárias."
 
 theme:
   background: "#071124"
