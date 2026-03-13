@@ -1,0 +1,101 @@
+username: cleyson02
+
+profile:
+  name: "Cleyson Silva"
+  slogan: "full-stack dev · data analyst · builder"
+  company: "Freelancer / Open Source"
+  location: "Pernambuco, Brazil"
+  bio: "Desenvolvedor Full-Stack e Analista de Dados focado em sistemas escaláveis, IA aplicada e automação de dados."
+  philosophy: "Transformar dados e código em soluções que geram impacto real."
+
+social:
+  email: "cleysonsilva2002@gmail.com"
+  linkedin: "cleyson02"
+  website: ""
+
+galaxy_arms:
+  - name: "Frontend & Mobile"
+    color: "synapse_cyan"
+    items:
+      - react
+      - react-native
+      - expo
+      - javascript
+      - typescript
+      - html
+      - css
+      - bootstrap
+
+  - name: "Backend"
+    color: "dendrite_violet"
+    items:
+      - python
+      - django
+      - flask
+      - java
+      - spring-boot
+      - nodejs
+      - sql
+
+  - name: "Data & AI"
+    color: "axon_amber"
+    items:
+      - pandas
+      - numpy
+      - scikit-learn
+      - xgboost
+      - bigquery
+      - powerbi
+      - machine-learning
+      - etl
+
+  - name: "DevOps & Infra"
+    color: "axon_amber"
+    items:
+      - docker
+      - github-actions
+      - gcp
+      - linux
+      - ci-cd
+      - git
+
+projects:
+  - repo: "cleyson02/solucheck"
+    arm_index: 1
+    description: "Plataforma científica em Flask para cálculos químicos e geração automática de relatórios técnicos."
+
+  - repo: "cleyson02/financial-ai-app"
+    arm_index: 0
+    description: "Aplicativo mobile de gestão financeira com IA para classificação de perfil financeiro e automação de transações."
+
+  - repo: "cleyson02/university-booking-system"
+    arm_index: 1
+    description: "Sistema web em Django para gerenciamento de reservas universitárias com calendário interativo."
+
+  - repo: "cleyson02/data-analytics-dashboards"
+    arm_index: 2
+    description: "Pipelines de dados e dashboards estratégicos em Python, BigQuery e Power BI."
+
+theme:
+  background: "#071124"
+  background_secondary: "#0b2233"
+  nebula: "#184b6b"
+  accent_primary: "#2fa8d0"
+  accent_secondary: "#ffd166"
+  accent_tertiary: "#ff8a5b"
+  accent_quaternary: "#b76ba3"
+  text_primary: "#ffffff"
+  text_secondary: "#999999"
+
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+languages:
+  exclude:
+    - HTML
+  max_display: 6
