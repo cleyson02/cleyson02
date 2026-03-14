@@ -2,7 +2,7 @@ username: cleyson02
 
 profile:
   name: "Cleyson Silva"
-  slogan: "full-stack developer · mobile specialist · builder"
+  tagline: "Dev Full Stack"
   company: "Freelancer / Open Source"
   location: "Pernambuco, Brazil"
   bio: "Desenvolvedor Full-Stack focado em eficiência operacional, sistemas escaláveis e criação de aplicações Web/Mobile de alta performance."
@@ -19,10 +19,8 @@ galaxy_arms:
     items:
       - react
       - react-native
-      - expo
       - typescript
       - javascript
-
   - name: "Backend & Cloud"
     color: "dendrite_violet"
     items:
@@ -32,7 +30,6 @@ galaxy_arms:
       - java
       - spring-boot
       - nodejs
-
   - name: "DevOps & Tools"
     color: "axon_amber"
     items:
@@ -43,12 +40,11 @@ galaxy_arms:
 
 projects:
   - repo: "cleyson02/C0inTec"
-    arm_index: 0  # Frontend & Mobile
+    arm: 0
     description: "Aplicativo de gestão financeira."
-
   - repo: "cleyson02/Sistema_mapeamento_laboratorio"
-    arm_index: 1  # Backend & Cloud
-    description: "Sistema web em Django para gerenciamento institucional."
+    arm: 1
+    description: "Sistema web para gerenciamento institucional."
 
 theme:
   background: "#071124"
